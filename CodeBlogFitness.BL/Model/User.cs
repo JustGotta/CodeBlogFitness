@@ -4,6 +4,7 @@ using System.Text;
 
 namespace CodeBlogFitness.BL.Model
 {
+    [Serializable]
     public class User
     {
         #region Свойства
